@@ -1,4 +1,6 @@
-## Development
+A demo is running in http://44.199.23.199:3007/
+
+## Deployment
 ### Frontend
 install dependencies:
 
@@ -28,4 +30,15 @@ flask --app server run
 
 ![image](https://github.com/TheSaltiestFish/Awesome_GPT/assets/67789306/0e4c5ba1-1d25-4c94-956b-5cbab884f453)
 
+Abrief description of the architecture and technologies used
+ ○ Anyassumptions made or limitations encountered during the development
+ process
+## Development
++ Developed frontend with React.js and Next.js
++ Developed backend with Python and Flask, store user message in Redis, identify user by IP address
++ There are limitations like when chat history and files grows, may exceed openAI token limit.
+
+## Bonus feature
++ Deployed on AWS EC2 instance, running on http://44.199.23.199:3007/
++ Can upload file through the upload button
 
