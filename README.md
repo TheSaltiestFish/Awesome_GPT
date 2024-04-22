@@ -30,9 +30,7 @@ flask --app server run
 
 ![image](https://github.com/TheSaltiestFish/Awesome_GPT/assets/67789306/0e4c5ba1-1d25-4c94-956b-5cbab884f453)
 
-Abrief description of the architecture and technologies used
- ○ Anyassumptions made or limitations encountered during the development
- process
+
 ## Development
 + Developed frontend with React.js and Next.js
 + Developed backend with Python and Flask, store user message in Redis, identify user by IP address
