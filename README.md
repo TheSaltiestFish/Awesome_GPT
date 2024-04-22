@@ -26,3 +26,6 @@ start it with:
 flask --app server run
 ```
 
+![image](https://github.com/TheSaltiestFish/Awesome_GPT/assets/67789306/0e4c5ba1-1d25-4c94-956b-5cbab884f453)
+
+
